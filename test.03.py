@@ -1,0 +1,5 @@
+print("파이썬"+"재미있습니다.")
+print(3+4)
+print(3*4)
+print(3/4)
+print(3-4)
